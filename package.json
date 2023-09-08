@@ -1,8 +1,8 @@
 {
-  "name": "radon-games",
-  "description": "An open-source unblocked games website built with simplicity in mind.",
+  "name": "geometry-calculator",
+  "description": "An open-source geometry calculator website built with simplicity in mind.",
   "version": "3.3.0",
-  "author": "Cohen Erickson <contact@cohenerickson.com>",
+  "author": "nope",
   "type": "module",
   "license": "GNU",
   "scripts": {
